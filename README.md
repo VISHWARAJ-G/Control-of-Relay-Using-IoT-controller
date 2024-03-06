@@ -1,6 +1,6 @@
-# Control-of-Relay-Using-IoT-controller
-#### Name : VISHWARAJ G
+#### Name : VISHWARAJ G.
 #### Ref No. : 212223220125
+# Exp-2 Control of Relay Using IoT controller
 ##  AIM:
 To control the Relay using Arduino controller
 
