@@ -59,8 +59,10 @@ void loop() {
 <img src="Screenshot (210).png" width="400">
 
 ## OUTPUT:
-<img src="Screenshot (213).png" width="400">
+#### Off Status:
+<img src="Screenshot (216).png" width="400">
 
+#### On Status:
 <img src="Screenshot (214).png" width="400">
 
 ## RESULT:
