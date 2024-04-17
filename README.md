@@ -65,6 +65,7 @@ void loop() {
 
 #### On Status:
 <img src="Screenshot (214).png" width="400">
+
 ## RESULT:
 
 Thus the relay is controlled using Arduino controller.
